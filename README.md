@@ -24,7 +24,12 @@
 - ## 📖 Usage Guide
 
 ### **1. Launch Application**
-
+  a. **Download both files to the same folder:**
+     - [Video.Splitter.exe](https://github.com/GinaGina947/v1/releases/download/v1/Video.Splitter.exe
+     - [ffmpeg.exe](https://github.com/GinaGina947/v1/releases/download/v1/ffmpeg.exe)
+  
+  b. **Extract ffmpeg.exe** to the same folder as Video.Splitter.exe
+  c. **Run Video.Splitter.exe** as Administrator
 ### **2. Select Input Video**
 - Click "Browse" to select your MP4 video file
 - Supported formats: MP4, AVI, MOV, MKV
