@@ -25,8 +25,8 @@
 
 ### **1. Launch Application**
   a. **Download both files to the same folder:**
-     - [Video.Splitter.exe](https://github.com/GinaGina947/v1/releases/download/v1/Video.Splitter.exe
-     - [ffmpeg.exe](https://github.com/GinaGina947/v1/releases/download/v1/ffmpeg.exe)
+     - [Video.Splitter.exe]([https://github.com/GinaGina947/v1/releases/download/v1/Video.Splitter.exe](https://github.com/GinaGina947/Video-Splitter/releases/download/v1/Video.Splitter.exe)
+     - [ffmpeg.exe]([https://github.com/GinaGina947/v1/releases/download/v1/ffmpeg.exe](https://github.com/GinaGina947/Video-Splitter/releases/download/v1/ffmpeg.exe))
   
   b. **Extract ffmpeg.exe** to the same folder as Video.Splitter.exe
   c. **Run Video.Splitter.exe** as Administrator
